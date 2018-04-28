@@ -44,6 +44,7 @@ hexxcoin-cli xnode status
 
 ## Usage:
 ```
+hexxcoin-cli xnsync status
 hexxcoin-cli xnode status  
 hexxcoin-cli getinfo
 ```
